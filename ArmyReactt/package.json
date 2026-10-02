@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@remixicon/react": "^4.9.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "lucide": "^1.29.0",
+    "lucide-react": "^1.37.0",
+    "remixicon": "^4.9.1",
+    "tailwindcss": "^4.3.3"
+  }
+}

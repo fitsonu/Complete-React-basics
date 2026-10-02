@@ -1,0 +1,19 @@
+.nav{
+  display:flex;
+  background-color:lightseagreen;
+  justify-content:space-between;
+  padding:14px 40px;
+
+  align-items:center;
+}
+.nav2{
+  display:flex;
+  gap:30px;
+  
+}
+.light{
+  background-color:lightseagreen;
+}
+.dark{
+  backgroud-color:darkslategrey;
+}

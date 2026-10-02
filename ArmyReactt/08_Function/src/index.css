@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'helvetica neue';
+}
+html, body{
+    height:100%;
+    width :100%;
+}
+button{
+    margin:10px;
+}
+.box{
+    margin: 30px 30px;
+    height:250px;
+    width:250px;
+    background-color:red;
+}
+.page1{
+    margin:20px;
+    height:250px;
+    width:250px;
+    background-color:black;
+}
+.page2{
+    margin:20px;
+    height:250px;
+    width:250px;
+    background-color:blue;
+}
